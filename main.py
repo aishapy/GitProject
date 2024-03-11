@@ -19,8 +19,8 @@ def calculation(x, y, operator):
         total = x / y 
         return total
     
-    num1 = float(input("please enter a nuber: "))
-    num2 = float(input("please enter a nuber: "))
+    num1 = float(input("please enter a number: "))
+    num2 = float(input("please enter a number: "))
 
 ops = ['+', '-', '*', '/']
 
@@ -34,3 +34,5 @@ while True:
         
     else:
         print ("That's right")
+
+        #trying to new make edits to make a pull request
